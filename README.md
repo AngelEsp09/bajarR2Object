@@ -6,6 +6,6 @@ ACCESS_KEY_ID=
 SECRET_ACCESS_KEY=
 ENDPOINT_URL=
 
-## 3. Ejecuta
-npm instal
-npm start
+# 2 Ejecuta
+# npm instal
+# npm start
