@@ -7,5 +7,7 @@ SECRET_ACCESS_KEY=
 ENDPOINT_URL=
 
 # 2 Ejecuta
-# npm instal
-# npm start
+```
+npm instal
+npm start
+```
