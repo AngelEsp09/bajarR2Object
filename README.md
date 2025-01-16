@@ -8,6 +8,6 @@ ENDPOINT_URL=
 
 # 2 Ejecuta
 ```
-npm instal
+npm install
 npm start
 ```
